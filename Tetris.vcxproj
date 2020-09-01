@@ -139,8 +139,6 @@
     <ResourceCompile Include="Tetris.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="icon1.ico" />
-    <Image Include="images\icon3.ico" />
     <Image Include="images\xie.ico" />
     <Image Include="images\xie.png" />
   </ItemGroup>

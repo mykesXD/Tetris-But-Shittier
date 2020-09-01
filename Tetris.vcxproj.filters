@@ -33,13 +33,7 @@
     <Image Include="images\xie.png">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="icon1.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="images\xie.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="images\icon3.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
