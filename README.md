@@ -13,3 +13,11 @@ Mans gotta finish what he started
 # Download
 
 > https://github.com/Mykesss/Tetris-But-Shittier/files/6107996/Tetris.v1.6.zip
+
+# Todos
+
+- 7-Bag Randomizer
+- 180 spin
+- Spins and Twists
+- Better movement
+- Better collision
